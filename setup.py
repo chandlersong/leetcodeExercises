@@ -21,5 +21,5 @@ setup(
     install_requires=intall_requires,
     author_email='chandler605@outlook.com',
     long_description=readme,
-    description='My Exercies code of leetcode'
+    description='My Exercises code of leetcode'
 )
